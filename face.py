@@ -1,3 +1,9 @@
+# test additions done while learning to commit and push files to git
+# 1
+# 2
+# test end
+
+
 # import the necessary packages
 import numpy as np
 import argparse
